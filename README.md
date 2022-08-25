@@ -43,5 +43,5 @@ expo install react-native-svg
 - Chose in which formate you want to get your code and use it!
 
 <a href="https://react-svgr.com/playground/?native=true">
-<img src="./images/svgr_playground.png" height="500" />
+<img src="./images/svgr_playground.png" />
 </a>
