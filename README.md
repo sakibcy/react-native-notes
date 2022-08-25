@@ -1,4 +1,5 @@
 # react-native-notes
+
 # SVG on react native
 
 ## Installation
@@ -6,7 +7,7 @@
 ### With expo-cli
 
 > ✅ The [Expo client app](https://expo.io/tools) comes with the native code installed!
-Install the JavaScript with:
+> Install the JavaScript with:
 
 ```bash
 expo install react-native-svg
@@ -35,6 +36,12 @@ expo install react-native-svg
    ```bash
    cd ios && pod install
    ```
- ### Usage
- * Copy the SVG code and paste into [SVGR Playground's](https://react-svgr.com/playground/?native=true) input
- * Chose in which formate you want to get your code and use it!
+
+### Usage
+
+- Copy the SVG code and paste into [SVGR Playground's](https://react-svgr.com/playground/?native=true) input
+- Chose in which formate you want to get your code and use it!
+
+<a href="https://react-svgr.com/playground/?native=true">
+<img src="./images/svgr_playground.png" height="500" />
+</a>
